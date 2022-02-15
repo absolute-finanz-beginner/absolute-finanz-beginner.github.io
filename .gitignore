@@ -1,0 +1,17 @@
+# project
+_site
+.sass-cache
+.vagrant
+run.bat
+
+# general
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+Gemfile.lock
+
+beautiful-jekyll-theme-*.gem
+
+# commentare
+staticman.yml
